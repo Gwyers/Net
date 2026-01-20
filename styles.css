@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
 :root {
     --bg: white;
     --fg: black;
@@ -10,4 +12,4 @@
     }
 }
 
-body { color: var(--fg); background-color: var(--bg); }
+body { color: var(--fg); background-color: var(--bg); font-family:'Inter', sans-serif; font-size: 14px; font-weight: 300; }
